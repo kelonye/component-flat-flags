@@ -2,6 +2,7 @@
   "name": "component-flat-flags",
   "verison": "0.8.3",
   "scripts": [
+    "index.js"
   ],
   "styles": [
     "css/flag-icon.css"
